@@ -1,11 +1,11 @@
 # Guru99
-Final project for the Prague/Dublin Coding school, course Automated testing 
+- Final project for the Prague/Dublin Coding school, course Automated testing 
+- Dublin Coding School: https://prahacoding.cz/courses/automation-testing-course-praha-coding-school/
 
-Dublin Coding School: https://prahacoding.cz/courses/automation-testing-course-praha-coding-school/
-
-
+## About
 Smoke test for the Guru99 bank app (https://demo.guru99.com/v4/)
- 
+
+## Comments
 Taking into account that I had no prior Java knowledge, this is quite a good result. 
 
 ## Technologies 
@@ -14,7 +14,7 @@ Taking into account that I had no prior Java knowledge, this is quite a good res
 - JUnit 5
 - Maven 
 
-## About
+## Details
 There are two separate methods, one for creating a new customer and a sechond one for a new account (package "pages"). These two are called whenewe a test method needs a new customer ID or account ID.
 The input data for individual dashboards are stored in the package "test_data".
 The locators for items on the dashboards are stored in the package "locators".
