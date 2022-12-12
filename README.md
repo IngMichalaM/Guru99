@@ -20,6 +20,9 @@ Taking into account that I had no prior Java knowledge, this is quite a good res
 - The locators for items on the dashboards are stored in the package "locators".
 - Test are in "test_classes".
 
+## How to run
+Run the test_classess/SmokeTest as JUnit Test.
+
 ## Problems
 Random variables are random only for the first call, later on they are all equal to this one. The problem is probably with the initialisation of the random number.
 
