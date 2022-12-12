@@ -5,7 +5,7 @@ public class LoginCredentials {
 	// login credentials expire every 20 days
 	// you need to generate your own 
 
-	public static String userID = "mngr459391";
-	public static String password = "tatadeg";
+	public static String userID = "";
+	public static String password = "";
 			
 }
