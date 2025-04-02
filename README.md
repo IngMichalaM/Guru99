@@ -15,7 +15,7 @@ Taking into account that I had no prior Java knowledge, this is quite a good res
 - Maven 
 
 ## Details
-- There are two separate methods, one for creating a new customer and a sechond one for a new account (package "pages"). These two are called whenever a test method needs a new customer ID or account ID.
+- There are two separate methods, one for creating a new customer and a second one for a new account (package "pages"). These two are called whenever a test method needs a new customer ID or account ID.
 - The input data for individual dashboards are stored in the package "test_data".
 - The locators for items on the dashboards are stored in the package "locators".
 - Test are in "test_classes".
